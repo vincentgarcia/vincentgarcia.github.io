@@ -1,0 +1,50 @@
+/*
+ * Author: Vincent Garcia
+ * URL: http://github.vincentgarcia.io
+ *
+ * Project Name: Personal Page
+ * Version: 0.1
+ */
+
+@font-face {
+font-family: "calluna-sans",sans-serif;
+font-style: normal;
+font-weight: 300;
+}
+
+@font-face {
+	font-family: "calluna-sans",sans-serif;
+	font-style: normal;
+	font-weight: 400;
+}
+
+@font-face {
+	font-family: "calluna-sans",sans-serif;
+	font-style: normal;
+	font-weight: 700;
+}
+
+@font-face {
+	font-family: "adelle",serif;
+	font-style: normal;
+	font-weight: 900;
+}
+
+
+body {
+ 	text-align: center;	
+ 	
+ }
+ 
+ 
+h1 {	
+	font-family: "adelle";
+	font-weight: 900;
+	font-size: 4em;
+} 
+
+p {
+	font-family: "calluna-sans";
+	font-weight: 400;
+	font-size: 2.5em;
+}
