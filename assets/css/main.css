@@ -43,6 +43,14 @@ h1 {
 	font-size: 4em;
 } 
 
+h2 {
+	font-family: "calluna-sans";
+	font-weight: 300;
+	font-size: 2em;
+	margin: 0;
+	padding: 0;
+}
+
 p {
 	font-family: "calluna-sans";
 	font-weight: 400;
