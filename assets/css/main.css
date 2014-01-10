@@ -33,8 +33,12 @@ font-weight: 300;
 
 body {
  	text-align: center;	
- 	color: white;
- 	background: -webkit-linear-gradient(#000000 0%, #ffffff 100%)
+ 	background: -webkit-linear-gradient(black, white); /* For Safari */
+ 	background: -o-linear-gradient(black, white); /* For Opera 11.1 to 12.0 */
+ 	background: -moz-linear-gradient(black, white); /* For Firefox 3.6 to 15 */
+ 	background: linear-gradient(black 30.46%, white 100%); /* Standard syntax */
+ 	background-repeat: no-repeat;
+ 	height: 100%;
  	
  }
  
@@ -43,6 +47,7 @@ h1 {
 	font-family: "adelle";
 	font-weight: 900;
 	font-size: 4em;
+	color: white;
 } 
 
 h2 {
@@ -51,10 +56,12 @@ h2 {
 	font-size: 2em;
 	margin: -50px 0px 0px 0px;
 	padding: 0;
+	color: #c9c9c9
 }
 
 p {
 	font-family: "calluna-sans";
 	font-weight: 400;
 	font-size: 2em;
+	color: white;
 }
