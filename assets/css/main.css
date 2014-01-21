@@ -50,24 +50,26 @@ h1 {
 	font-weight: 900;
 	font-size: 4em;
 	color: white;
-	
+	padding: 40px 40px 0px 40px;
+	margin: 0;
 } 
 
 h2 {
 	font-family: "calluna-sans";
 	font-weight: 300;
 	font-size: 2em;
-	margin: -40px 0px 0px 0px;
 	color: #c9c9c9;
-	padding: 0px 20px;
+	padding: 0px 40px 40px 40px;
+	margin: 0;
 }
 
 p {
 	font-family: "calluna-sans";
 	font-weight: 400;
-	font-size: 4em;
+	font-size: 5em;
 	color: black;
-	margin: 20px;
+	max-width: 600px;
+	margin: 40px auto;
 
 
 }
