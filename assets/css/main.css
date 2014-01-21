@@ -38,7 +38,7 @@ body {
 	padding: 0;	 	
  }
  
-header {
+section.title {
 	background: black;
 	margin: 0;
 	padding: 5px;
