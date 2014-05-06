@@ -1,11 +1,10 @@
-/*
+/* Vincent Garcia
+ * 
+ * 
+ * 
+ * (Minor) edit of the BlackTie theme by:
  * Author: Carlos Alvarez
- * URL: http://Alvarez.is
- *
- * Project Name: NYC Design
- * Version: 1.0
- * Date: 04-20-2014
- * URL: 
+ * URL: http://Alvarez.is* 
  */
 
 
@@ -136,14 +135,15 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #social {
-	padding-top: 50px;
-	padding-bottom: 50px;
+	padding-top: 40px;
+	padding-bottom: 40px;
 	background-color: #f2f2f2;
 }
 
 #social i {
 	font-size: 40px;
-	color: #4a4a4a
+	color: #4a4a4a;
+	padding: 10px;
 }
 
 #social i:hover {
